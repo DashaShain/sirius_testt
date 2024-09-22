@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 
 if __name__ == '__main__':
-    image_path = 'mems/мем1.jpg'
+    image_path = 'mems/мем2.jpg'
 
     img = Image.open(image_path)
 
